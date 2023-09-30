@@ -30,7 +30,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "",
+        "value": "6654918132",
         "required": true
       },
       "MONGO_DB_URI": {
