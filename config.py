@@ -11,5 +11,5 @@ API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
-OWNER_ID = int(getenv("OWNER_ID", ""))
+OWNER_ID = int(getenv("OWNER_ID", "6654918132"))
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NoobxCreator")
